@@ -12,8 +12,7 @@ Believe it or not, staying connected does more than warm your heart—it can con
 
 
 
-[Privacy Policy]("https://github.com/danhabit/CallReminder/blob/main/Privacy%20Policy.md")
+[Privacy Policy, English](https://github.com/danhabit/CallReminder/blob/main/Privacy%20Policy.md)
 
-[Terms of Service]("https://github.com/danhabit/CallReminder/blob/main/Terms%20of%20Service.md")
+[Terms of Service, English](https://github.com/danhabit/CallReminder/blob/main/Terms%20of%20Service.md)
 
-<img width="1907" alt="image" src="https://github.com/danhabit/CallReminder/assets/130224807/df8f66e4-42d7-4194-88ec-045612391c2e">
